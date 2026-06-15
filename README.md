@@ -49,7 +49,7 @@
 ## 수상 내역
 | 타이틀 | 세부 내용 |  |
 |:---:|:---:|:---:|
-| 2020 <br> Korea Wi-Content Contest <br> 중고등부 IT 콘텐츠 부문 | 문화체육관광부장관 대상 수상작 <br> (게임 제작) | <a href="https://drive.google.com/drive/folders/15wYkqpB_sI_ziqTSYjB5MrNnT5sB_mXT?usp=sharing"><img width="20%" height="20%" src="https://github.com/user-attachments/assets/c5c73605-54f4-43a7-a5fd-7621f30dc131" /></a> |
+| 2020 <br> Korea Wi-Content Contest <br> 중고등부 IT 콘텐츠 부문 | 문화체육관광부장관 대상 <br> 수상작 <br> (게임 제작) | <a href="https://drive.google.com/drive/folders/15wYkqpB_sI_ziqTSYjB5MrNnT5sB_mXT?usp=sharing"><img width="20%" height="20%" src="https://github.com/user-attachments/assets/c5c73605-54f4-43a7-a5fd-7621f30dc131" /></a> |
 | 2020 <br> 제10회 전국 중.고교생 <br> 서강 게임/애니/만화 아이디어 <br> 공모전 (서강대학교) | 금상 수상작 | <a href="https://drive.google.com/drive/folders/15wYkqpB_sI_ziqTSYjB5MrNnT5sB_mXT?usp=sharing">`📜`</a> |
 | 2020 <br> IT분야 직업계고 취업 UP! 게임개발대회 | 서울시교육감 <br> 금상 수상작 | <a href="https://drive.google.com/drive/folders/15wYkqpB_sI_ziqTSYjB5MrNnT5sB_mXT?usp=sharing">`📜`</a> |
 | 2020 <br> 부산인디커넥트 <br> 페스티벌 | 멀티플레이 부문 <br> 선정 <br> & <br> 수상작 | <a href="https://drive.google.com/drive/folders/15wYkqpB_sI_ziqTSYjB5MrNnT5sB_mXT?usp=sharing"><img width="15%" height="15%" src="https://github.com/user-attachments/assets/0850e17d-a916-40c0-9702-1bc39fabe1f2" /></a> |
