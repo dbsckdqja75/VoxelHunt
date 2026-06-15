@@ -64,7 +64,7 @@
 | 마스터 <br> 클라이언트 <br> 기반 제어 | `PhotonNetwork.IsMasterClient`를 활용한 권한 분리로 <br> 라운드 타이머, 팀 배정, 맵 프리셋 결정 등 핵심 게임 제어 로직 처리 |
 | CustomProperties <br> 동기화 | `Room/Player CustomProperties`와 `Hashtable`을 활용하여 라운드 정보, 플레이어 정보, 룸 옵션 등 <br> 실시간으로 동기화 및 합류 플레이어 처리 대응 |
 | RPC 기반 <br> 실시간 상호작용 | `PunRPC` 처리로 사물 변신, 타격 판정 아이템 사용 처리 등 <br> 클라이언트 간 즉각적인 이벤트 전파 제어 |
-| Anti-Cheat | AntiCheatManager를 통한 비정상적인 값 변조, 스피드핵 감시 및 <br> 암호화된 변수 관리 구조 적용 |
+| Anti-Cheat | [AntiCheatManager](https://github.com/dbsckdqja75/VoxelHunt/blob/main/Scripts/InGame/AntiCheatManager.cs)를 통한 비정상적인 값 변조, 스피드핵 감시 및 <br> 암호화된 변수 관리 구조 적용 |
 | 사운드 관리 | [SoundManager](https://github.com/dbsckdqja75/VoxelHunt/blob/main/Scripts/Static/SoundManager.cs) 구현으로 인게임의 배경음악 및 효과음 리소스 로드, <br> Coroutine 기반 Volume, CrossFade 제어 |
 
 <br>
