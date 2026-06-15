@@ -49,10 +49,10 @@
 ## 수상 내역
 | 타이틀 | 세부 내용 |  |
 |:---:|:---:|:---:|
-| 2020 <br> Korea Wi-Content Contest <br> 중고등부 IT 콘텐츠 부문 | 문화체육관광부장관 대상 수상작 (게임 제작) | <a href="https://drive.google.com/drive/folders/15wYkqpB_sI_ziqTSYjB5MrNnT5sB_mXT?usp=sharing"><img width="20%" height="20%" src="https://github.com/user-attachments/assets/c5c73605-54f4-43a7-a5fd-7621f30dc131" /></a> |
+| 2020 <br> Korea Wi-Content Contest <br> 중고등부 IT 콘텐츠 부문 | 문화체육관광부장관 대상 수상작 <br> (게임 제작) | <a href="https://drive.google.com/drive/folders/15wYkqpB_sI_ziqTSYjB5MrNnT5sB_mXT?usp=sharing"><img width="20%" height="20%" src="https://github.com/user-attachments/assets/c5c73605-54f4-43a7-a5fd-7621f30dc131" /></a> |
 | 2020 <br> 제10회 전국 중.고교생 <br> 서강 게임/애니/만화 아이디어 <br> 공모전 (서강대학교) | 금상 수상작 | <a href="https://drive.google.com/drive/folders/15wYkqpB_sI_ziqTSYjB5MrNnT5sB_mXT?usp=sharing">`📜`</a> |
 | 2020 <br> IT분야 직업계고 취업 UP! 게임개발대회 | 서울시교육감 <br> 금상 수상작 | <a href="https://drive.google.com/drive/folders/15wYkqpB_sI_ziqTSYjB5MrNnT5sB_mXT?usp=sharing">`📜`</a> |
-| 2020 <br> 부산인디커넥트 페스티벌 (BIC) | 멀티플레이 부문 선정 <br> & <br> 수상작 | <a href="https://drive.google.com/drive/folders/15wYkqpB_sI_ziqTSYjB5MrNnT5sB_mXT?usp=sharing"><img width="15%" height="15%" src="https://github.com/user-attachments/assets/0850e17d-a916-40c0-9702-1bc39fabe1f2" /></a> |
+| 2020 <br> 부산인디커넥트 <br> 페스티벌 | 멀티플레이 부문 <br> 선정 <br> & <br> 수상작 | <a href="https://drive.google.com/drive/folders/15wYkqpB_sI_ziqTSYjB5MrNnT5sB_mXT?usp=sharing"><img width="15%" height="15%" src="https://github.com/user-attachments/assets/0850e17d-a916-40c0-9702-1bc39fabe1f2" /></a> |
 
 <br>
 
@@ -207,7 +207,7 @@ stateDiagram-v2
 <br>
 
 + **네트워크 관련 예외 이슈 대응**<br>
-> 같이 게임을 시작했으나 늦게 로딩되어 동기화가 제대로 되지 않거나, 도중 합류 유저의 동기화 처리와 관련하여 <br> 간헐적 이슈가 있었는데 현재 설계상 통째로 리팩토링 하지 않는 이상 쉽게 고칠 수 없는 문제라 판단하여 <br> 처리하지 못했던 큰 아쉬움이 있음
+> 같이 게임을 시작했으나 늦게 로딩되어 동기화가 제대로 되지 않거나, 도중 합류 유저의 동기화 처리와 관련하여 <br> 간헐적 이슈가 있었는데 현재 설계상 통째로 리팩토링 하지 않는 이상 쉽게 고칠 수 없는 문제라 판단하여 <br> 작업하 못했던 큰 아쉬움이 있음
 
 <br>
 
@@ -225,7 +225,7 @@ stateDiagram-v2
 
 ## 기타 정보
 + 저장소에는 프로젝트의 원본 소스코드만 포함되어 있습니다.
-+ 파티클 이펙트와 사운드 효과음은 유료 에셋을 수정 및 활용하였으며, <br> **배경음악은 [저작권자](https://www.youtube.com/channel/UCps63j3krzAG4OyXeEyuhFw)에게 직접 이메일 연락을 통해 사용 허락을 받고** 활용하여 사용했습니다. (비상업용/공모전 출품 활용 목적)
++ 파티클 이펙트와 사운드 효과음은 유료 에셋을 수정 및 활용하였으며, <br> **배경음악은 [저작권자](https://www.youtube.com/channel/UCps63j3krzAG4OyXeEyuhFw)에게 직접 이메일 연락을 통해 사용 허락을 받고** 활용하여 사용했습니다. <br> (비상업용/공모전 출품 활용 목적)
 
 <br>
 
